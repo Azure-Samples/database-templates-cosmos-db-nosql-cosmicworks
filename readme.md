@@ -7,7 +7,7 @@ urlFragment: template
 languages:
 - azdeveloper
 products:
-- azure-sql
+- azure-cosmos-db
 ---
 -->
 
